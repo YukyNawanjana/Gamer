@@ -14,7 +14,7 @@ section{
 }
 .hero{
     padding: 50px 0px;
-    background: linear-gradient(rgba(67, 239, 255, 0.424), rgba(18, 255, 117, 0.452)), url("./img/1.jpg")no-repeat;
+    background: linear-gradient(rgba(67, 239, 255, 0.424), rgba(18, 255, 117, 0.452)), url("./Img/1.jpg")no-repeat;
     background-size: cover;
     height:100vh;
     background-position: 50% 70%;
